@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAPI", "ClientAPI\ClientAPI.csproj", "{9F923436-397D-4E7E-919E-179DDA91BC1C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userAPI", "studentManagement\userAPI.csproj", "{94382488-71CF-41E3-9FF3-50EFE8FDD98C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angularClient", "angularClient\angularClient.csproj", "{4E6AEF10-9012-4616-BA35-95F91D8F3625}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9F923436-397D-4E7E-919E-179DDA91BC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F923436-397D-4E7E-919E-179DDA91BC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F923436-397D-4E7E-919E-179DDA91BC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F923436-397D-4E7E-919E-179DDA91BC1C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{94382488-71CF-41E3-9FF3-50EFE8FDD98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{94382488-71CF-41E3-9FF3-50EFE8FDD98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94382488-71CF-41E3-9FF3-50EFE8FDD98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
