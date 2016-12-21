@@ -119,8 +119,6 @@ namespace userManagement.Controllers
                         
                         _userEntities.SaveChanges();
 
-                     
-
                        
                     }
                     response = Request.CreateResponse(HttpStatusCode.OK);
