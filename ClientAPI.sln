@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angularClient", "angularCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userDB", "userDB\userDB.csproj", "{880F50F2-82E9-4A28-85FC-6E40E19A80E4}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "user", "user\user.sqlproj", "{72AB144A-A0CB-4ABA-898A-C68A8E732693}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,12 @@ Global
 		{880F50F2-82E9-4A28-85FC-6E40E19A80E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{880F50F2-82E9-4A28-85FC-6E40E19A80E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{880F50F2-82E9-4A28-85FC-6E40E19A80E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72AB144A-A0CB-4ABA-898A-C68A8E732693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AB144A-A0CB-4ABA-898A-C68A8E732693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AB144A-A0CB-4ABA-898A-C68A8E732693}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{72AB144A-A0CB-4ABA-898A-C68A8E732693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AB144A-A0CB-4ABA-898A-C68A8E732693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72AB144A-A0CB-4ABA-898A-C68A8E732693}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

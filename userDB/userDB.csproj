@@ -85,6 +85,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="dbo.users.sql" />
     <Content Include="userModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>userModel.edmx</DependentUpon>
